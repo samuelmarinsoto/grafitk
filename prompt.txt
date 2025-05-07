@@ -1,0 +1,6 @@
+yes. lets add:
+
+* grid lines (toggleable with a commandline flag)
+* mouse/keyboard horizontal zoom (will increase/descrease the sliding window to view more data, compressing the graph in the process)
+* mouse/keyboard vertical zoom (will "zoom" into the y axis, and upon zooming will create a vertical scrollbar. its like a vertical sliding window in a way
+* mouse/keyboard move the sliding window (will move the sliding window horizontally, or if zoomed vertically, keeping the current scale the same)
